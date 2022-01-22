@@ -9,7 +9,7 @@ public class MelvinVersion {
         double sum = 0;
         for (int i = 0; i <= n; i++) {
             double prod = 1;
-            for (int j = 1; j <= i; j++) {M
+            for (int j = 1; j <= i; j++) {
                 prod = prod * x;
             }
             sum = sum + prod;
