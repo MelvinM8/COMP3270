@@ -1,7 +1,13 @@
+/**
+* Authors: Melvin Moreno & Matthew Freestone
+* This is a program we created for our programming assignment 1 in Dr. Biaz's class
+* It computes the sum powers and outputs the time it took to compute depending on your input of size n.
+*/
+
 import java.util.Scanner;
 import java.text.DecimalFormat;
 
-public class MelvinVersion {
+public class ProgrammingAssignment1 {
     //Methods
     public static double ComputeSumPowers(double x, double n) {
         double sum = 0;
