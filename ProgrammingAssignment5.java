@@ -7,6 +7,14 @@ import java.util.Scanner;
 import java.util.Arrays;
 import java.util.Random;
 
+/**
+* This programming assignment is for Dr. Biaz's Introduction to Algorithms class.
+* The purpose is to compare the running time of a naive sorting algorithm and merge-sort.
+* Authors: Melvin Moreno and Matthew Freestone
+*/
+
+
+
 public class ProgrammingAssignment5 {
     //METHODS
 
