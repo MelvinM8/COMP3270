@@ -1,5 +1,11 @@
 import java.io.*;
 import java.util.Scanner;
+/**
+* This is programming assignment 9 for COMP3270 Introduction to Algorithms with Dr. Saad Biaz.
+* Authors: Melvin Moreno and Matthew Freestone
+* The purpose of this program is to verify the following theorem:
+* “The expected height h(n) of a randomly built binary search tree on n distinct keys is O(lg n).”
+*/
 
 public class ProgrammingAssignment9 {
     //variables
